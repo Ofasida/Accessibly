@@ -52,3 +52,10 @@ It does not provide legal advice.
 
 Accessibly is currently implemented as a custom GPT built on ChatGPT.
 This repository documents its purpose, scope, and design principles.
+
+---
+
+## Documentation
+- [Scope](docs/scope.md)
+- [Rules](docs/rules.md)
+- [Examples](docs/examples.md)
